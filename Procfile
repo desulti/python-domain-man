@@ -1,0 +1,1 @@
+web: python WsocketServer.py runserver

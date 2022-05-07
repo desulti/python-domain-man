@@ -1,0 +1,15 @@
+
+{
+    "space": "article",
+    "spaceclass": "detail-wrap",
+    "title": "h1",
+    "summary": "h2",
+    "summaryclass": "detail__summary",
+    "image": "figure",
+    "imageclass": "{'class':['detail__avatar', 'image-wrap align-center-image']}",
+     "time": "div",
+    "timeclass": "detail__meta",
+    "author": "div",
+    "authorclass": "detail__author",
+    "contents": "p"
+}
